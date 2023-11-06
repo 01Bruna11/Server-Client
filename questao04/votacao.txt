@@ -1,0 +1,2 @@
+1- quando entrar no laço de "Voce pode votar", enviar dados para o servidor simultaneamente
+
